@@ -29,7 +29,7 @@ Slim is configured for Apache in the example, but supports many other web server
 
 ## Documentation
 
-Slim: <http://docs.slimframework.com/>
+Slim: <http://docs.slimframework.com/>  
 ezSQL: <http://htmlpreview.github.com/?https://github.com/jv2222/ezSQL/blob/master/ez_sql_help.htm/>
 
 ### Twitter
