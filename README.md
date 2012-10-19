@@ -29,8 +29,8 @@ Slim is configured for Apache in the example, but supports many other web server
 
 ## Documentation
 
-<http://docs.slimframework.com/>
-<http://htmlpreview.github.com/?https://github.com/jv2222/ezSQL/blob/master/ez_sql_help.htm/>
+Slim: <http://docs.slimframework.com/>\n
+ezSQL: <http://htmlpreview.github.com/?https://github.com/jv2222/ezSQL/blob/master/ez_sql_help.htm/>
 
 ### Twitter
 
