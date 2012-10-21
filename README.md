@@ -35,9 +35,9 @@ Slim is configured for Apache in the example, but supports many other web server
 ###ezSQL
 <http://htmlpreview.github.com/?https://github.com/jv2222/ezSQL/blob/master/ez_sql_help.htm>
 
-## About Me
+## Find Me
 
-For updates, or if you have suggestions or questions:
+For updates / suggestions / questions / etc.
 <table>
   <tr>
     <td><img src="http://www.gravatar.com/avatar/86ceadeffc086eb21df5a49787315ff6?s=60"></td><td valign="middle">Trae Regan<br><a href="http://twitter.com/traeregan">@traeregan</a><br><a href="http://trae.name">http://trae.name</a></td>
