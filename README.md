@@ -1,4 +1,4 @@
-PHP RESTful API Template
+PHP 5.3+ RESTful API Template
 ========================
 
 [Slim](https://github.com/codeguy/Slim) is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
@@ -33,8 +33,13 @@ Slim is configured for Apache in the example, but supports many other web server
 <http://docs.slimframework.com/>
 
 ###ezSQL
-<http://htmlpreview.github.com/?https://github.com/jv2222/ezSQL/blob/master/ez_sql_help.htm/>
+<http://htmlpreview.github.com/?https://github.com/jv2222/ezSQL/blob/master/ez_sql_help.htm>
 
-## Twitter for Updates
+## About Me
 
-Follow [@traeregan](http://www.twitter.com/traeregan) on Twitter to receive updates about the template.
+For updates, or if you have suggestions or questions:
+<table>
+  <tr>
+    <td><img src="http://www.gravatar.com/avatar/86ceadeffc086eb21df5a49787315ff6?s=60"></td><td valign="middle">Trae Regan<br><a href="http://twitter.com/traeregan">@traeregan</a><br><a href="http://trae.name">http://trae.name</a></td>
+  </tr>
+</table>
